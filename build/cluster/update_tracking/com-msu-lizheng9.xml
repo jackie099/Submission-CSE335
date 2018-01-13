@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.msu.lizheng9">
+    <module_version install_time="1515824413619" last="true" origin="installer" specification_version="1.22">
+        <file crc="613153132" name="config/Modules/com-msu-lizheng9.xml"/>
+        <file crc="3224287162" name="modules/com-msu-lizheng9.jar"/>
+    </module_version>
+</module>
